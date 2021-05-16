@@ -26,4 +26,4 @@
 |:--------------------|
 ![Logged out](https://github.com/Remonhasan/product-api-laravel-sanctum-spa/blob/main/api-logged-out.png)
 
-[Blog](https://dev.to/remonhasan/laravel-8-rest-api-authentication-with-sanctum-ie8)
+[Check Blog for Details](https://dev.to/remonhasan/laravel-8-rest-api-authentication-with-sanctum-ie8)
